@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1547827946 source:e:\3as- 54.6 go\2eme anneé info\asd\project asd\tp_final\main.c
+	<stdbool.h>
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+	<limits.h>
+	<time.h>
+	<ctype.h>
+	<stdarg.h>
+	<windows.h>
+
