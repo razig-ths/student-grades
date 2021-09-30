@@ -1,6 +1,6 @@
-#Student notes - class project
+# Student notes - class project
 
- simple project for entré student grade made by me, when I studied tree algorithm
+ this is a simple project for entré student grade made by me, when I was study  tree algorithm . 
  
 # how to lunch ?
   ./tppo
